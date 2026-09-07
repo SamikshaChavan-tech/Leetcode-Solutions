@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-07T18:24:20.822Z",
+  "updatedAt": "2026-09-07T18:25:03.316Z",
   "problems": [
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1929-concatenation-of-array.java",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
+          "sha": "4d056107886a8455b65f08751987ff0345d2a896",
+          "lastSyncedAt": "2026-09-07T18:25:03.316Z"
+        }
+      ]
+    },
     {
       "frontendId": "3028",
       "title": "Ant on the Boundary",
