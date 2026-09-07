@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming"
+  },
+  "updatedAt": "2026-09-07T18:22:44.062Z",
+  "problems": [
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1025-divisor-game.java",
+          "path": "1025-divisor-game/1025-divisor-game.java",
+          "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
+          "lastSyncedAt": "2026-09-07T18:22:44.062Z"
+        }
+      ]
+    }
+  ]
+}
