@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-07T18:38:58.249Z",
+  "updatedAt": "2026-09-07T18:39:48.740Z",
   "problems": [
     {
       "frontendId": "1",
@@ -42,7 +42,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.java",
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "3dc05628cd44b9af51e0890379b06bcc6f8e4654",
-          "lastSyncedAt": "2026-09-07T18:27:06.971Z"
+          "lastSyncedAt": "2026-09-07T18:39:48.740Z"
         }
       ]
     }
