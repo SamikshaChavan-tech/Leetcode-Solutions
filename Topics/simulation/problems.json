@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-07T18:26:35.542Z",
+  "updatedAt": "2026-09-07T18:27:02.788Z",
   "problems": [
     {
       "frontendId": "1929",
@@ -22,7 +22,7 @@
           "filename": "1929-concatenation-of-array.java",
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "4d056107886a8455b65f08751987ff0345d2a896",
-          "lastSyncedAt": "2026-09-07T18:25:03.316Z"
+          "lastSyncedAt": "2026-09-07T18:27:02.788Z"
         }
       ]
     },
