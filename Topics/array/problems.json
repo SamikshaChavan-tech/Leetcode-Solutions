@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T18:39:01.631Z",
+  "updatedAt": "2026-09-07T18:39:09.917Z",
   "problems": [
     {
       "frontendId": "1",
@@ -302,7 +302,7 @@
           "filename": "3774-absolute-difference-between-maximum-and-minimum-k-elements.java",
           "path": "3774-absolute-difference-between-maximum-and-minimum-k-elements/3774-absolute-difference-between-maximum-and-minimum-k-elements.java",
           "sha": "8caa24fdd7a0947f9f4e2ecb64f438f7292e0db8",
-          "lastSyncedAt": "2026-09-07T18:26:26.380Z"
+          "lastSyncedAt": "2026-09-07T18:39:09.917Z"
         }
       ]
     },
