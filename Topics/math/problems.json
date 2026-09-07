@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-07T18:22:44.062Z",
+  "updatedAt": "2026-09-07T18:23:48.395Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -23,6 +23,26 @@
           "path": "1025-divisor-game/1025-divisor-game.java",
           "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
           "lastSyncedAt": "2026-09-07T18:22:44.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1979-find-greatest-common-divisor-of-array.java",
+          "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
+          "sha": "fb42f2eb9d1cc596b23574eab9d01b8471dec3ad",
+          "lastSyncedAt": "2026-09-07T18:23:48.395Z"
         }
       ]
     }
