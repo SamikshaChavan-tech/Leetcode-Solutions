@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-07T18:23:08.719Z",
+  "updatedAt": "2026-09-07T18:24:07.903Z",
   "problems": [
     {
       "frontendId": "2951",
@@ -23,6 +23,26 @@
           "path": "2951-find-the-peaks/2951-find-the-peaks.java",
           "sha": "3f7bcb8829813abccc30a4f050f6486464a6aef5",
           "lastSyncedAt": "2026-09-07T18:23:08.719Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3745",
+      "title": "Maximize Expression of Three Elements",
+      "slug": "maximize-expression-of-three-elements",
+      "problemName": "3745-maximize-expression-of-three-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-expression-of-three-elements/",
+      "folderPath": "3745-maximize-expression-of-three-elements/",
+      "readmePath": "3745-maximize-expression-of-three-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3745-maximize-expression-of-three-elements.java",
+          "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.java",
+          "sha": "2670ab369c8714084626c288170f33f0267a79c4",
+          "lastSyncedAt": "2026-09-07T18:24:07.903Z"
         }
       ]
     }
