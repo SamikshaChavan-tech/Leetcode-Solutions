@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-07T18:24:40.619Z",
+  "updatedAt": "2026-09-07T18:24:51.091Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -23,6 +23,26 @@
           "path": "1025-divisor-game/1025-divisor-game.java",
           "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
           "lastSyncedAt": "2026-09-07T18:22:44.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1952",
+      "title": "Three Divisors",
+      "slug": "three-divisors",
+      "problemName": "1952-three-divisors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+      "folderPath": "1952-three-divisors/",
+      "readmePath": "1952-three-divisors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1952-three-divisors.java",
+          "path": "1952-three-divisors/1952-three-divisors.java",
+          "sha": "c49eb7b543cf09f1464fc2945259dfae3efa3d82",
+          "lastSyncedAt": "2026-09-07T18:24:51.091Z"
         }
       ]
     },
