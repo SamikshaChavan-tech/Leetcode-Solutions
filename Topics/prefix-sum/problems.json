@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-07T18:23:33.562Z",
+  "updatedAt": "2026-09-07T18:24:20.822Z",
   "problems": [
+    {
+      "frontendId": "3028",
+      "title": "Ant on the Boundary",
+      "slug": "ant-on-the-boundary",
+      "problemName": "3028-ant-on-the-boundary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ant-on-the-boundary/",
+      "folderPath": "3028-ant-on-the-boundary/",
+      "readmePath": "3028-ant-on-the-boundary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3028-ant-on-the-boundary.java",
+          "path": "3028-ant-on-the-boundary/3028-ant-on-the-boundary.java",
+          "sha": "7f2cf46e9bd125eef86af1ae7eb862ae977ea032",
+          "lastSyncedAt": "2026-09-07T18:24:20.822Z"
+        }
+      ]
+    },
     {
       "frontendId": "3903",
       "title": "Smallest Stable Index I",
