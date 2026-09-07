@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-09-07T18:23:03.066Z",
+  "problems": [
+    {
+      "frontendId": "3131",
+      "title": "Find the Integer Added to Array I",
+      "slug": "find-the-integer-added-to-array-i",
+      "problemName": "3131-find-the-integer-added-to-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-integer-added-to-array-i/",
+      "folderPath": "3131-find-the-integer-added-to-array-i/",
+      "readmePath": "3131-find-the-integer-added-to-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3131-find-the-integer-added-to-array-i.java",
+          "path": "3131-find-the-integer-added-to-array-i/3131-find-the-integer-added-to-array-i.java",
+          "sha": "59f556a3d0683ce4e5edebfc01f2c920b7959354",
+          "lastSyncedAt": "2026-09-07T18:23:03.066Z"
+        }
+      ]
+    }
+  ]
+}
