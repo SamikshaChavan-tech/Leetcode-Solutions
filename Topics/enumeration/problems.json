@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-07T18:24:29.686Z",
+  "updatedAt": "2026-09-07T18:24:40.619Z",
   "problems": [
+    {
+      "frontendId": "2427",
+      "title": "Number of Common Factors",
+      "slug": "number-of-common-factors",
+      "problemName": "2427-number-of-common-factors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-common-factors/",
+      "folderPath": "2427-number-of-common-factors/",
+      "readmePath": "2427-number-of-common-factors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2427-number-of-common-factors.java",
+          "path": "2427-number-of-common-factors/2427-number-of-common-factors.java",
+          "sha": "6100586c2d7e5bc0e5b9117f1ff7e0e136c51800",
+          "lastSyncedAt": "2026-09-07T18:24:40.619Z"
+        }
+      ]
+    },
     {
       "frontendId": "2778",
       "title": "Sum of Squares of Special Elements ",
