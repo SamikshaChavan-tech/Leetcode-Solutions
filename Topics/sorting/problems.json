@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-07T18:26:08.415Z",
+  "updatedAt": "2026-09-07T18:26:26.380Z",
   "problems": [
     {
       "frontendId": "2148",
@@ -62,7 +62,7 @@
           "filename": "3774-absolute-difference-between-maximum-and-minimum-k-elements.java",
           "path": "3774-absolute-difference-between-maximum-and-minimum-k-elements/3774-absolute-difference-between-maximum-and-minimum-k-elements.java",
           "sha": "8caa24fdd7a0947f9f4e2ecb64f438f7292e0db8",
-          "lastSyncedAt": "2026-09-07T18:24:02.154Z"
+          "lastSyncedAt": "2026-09-07T18:26:26.380Z"
         }
       ]
     }
