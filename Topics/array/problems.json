@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T18:25:29.575Z",
+  "updatedAt": "2026-09-07T18:25:59.151Z",
   "problems": [
     {
       "frontendId": "1",
@@ -242,7 +242,7 @@
           "filename": "3131-find-the-integer-added-to-array-i.java",
           "path": "3131-find-the-integer-added-to-array-i/3131-find-the-integer-added-to-array-i.java",
           "sha": "59f556a3d0683ce4e5edebfc01f2c920b7959354",
-          "lastSyncedAt": "2026-09-07T18:23:03.066Z"
+          "lastSyncedAt": "2026-09-07T18:25:59.151Z"
         }
       ]
     },
