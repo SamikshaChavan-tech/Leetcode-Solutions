@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-07T18:26:29.579Z",
+  "updatedAt": "2026-09-07T18:39:13.262Z",
   "problems": [
     {
       "frontendId": "3745",
@@ -22,7 +22,7 @@
           "filename": "3745-maximize-expression-of-three-elements.java",
           "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.java",
           "sha": "2670ab369c8714084626c288170f33f0267a79c4",
-          "lastSyncedAt": "2026-09-07T18:26:29.579Z"
+          "lastSyncedAt": "2026-09-07T18:39:13.262Z"
         }
       ]
     }
