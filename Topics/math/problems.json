@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-07T18:24:51.091Z",
+  "updatedAt": "2026-09-07T18:25:15.835Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -103,6 +103,26 @@
           "path": "2455-average-value-of-even-numbers-that-are-divisible-by-three/2455-average-value-of-even-numbers-that-are-divisible-by-three.java",
           "sha": "cf5d966b5f247586723c981e123f12b8b599b5ac",
           "lastSyncedAt": "2026-09-07T18:24:35.183Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
+          "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
+          "sha": "a3d6442c0edfa698290b630520786811c6d3c878",
+          "lastSyncedAt": "2026-09-07T18:25:15.835Z"
         }
       ]
     }
