@@ -4,7 +4,7 @@
     "slug": "euclidean-algorithm",
     "name": "Euclidean Algorithm"
   },
-  "updatedAt": "2026-09-07T18:23:48.395Z",
+  "updatedAt": "2026-09-07T18:24:40.619Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -23,6 +23,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "fb42f2eb9d1cc596b23574eab9d01b8471dec3ad",
           "lastSyncedAt": "2026-09-07T18:23:48.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2427",
+      "title": "Number of Common Factors",
+      "slug": "number-of-common-factors",
+      "problemName": "2427-number-of-common-factors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-common-factors/",
+      "folderPath": "2427-number-of-common-factors/",
+      "readmePath": "2427-number-of-common-factors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2427-number-of-common-factors.java",
+          "path": "2427-number-of-common-factors/2427-number-of-common-factors.java",
+          "sha": "6100586c2d7e5bc0e5b9117f1ff7e0e136c51800",
+          "lastSyncedAt": "2026-09-07T18:24:40.619Z"
         }
       ]
     }
