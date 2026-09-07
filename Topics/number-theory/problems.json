@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-07T18:26:47.446Z",
+  "updatedAt": "2026-09-07T18:26:54.815Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -22,7 +22,7 @@
           "filename": "1952-three-divisors.java",
           "path": "1952-three-divisors/1952-three-divisors.java",
           "sha": "c49eb7b543cf09f1464fc2945259dfae3efa3d82",
-          "lastSyncedAt": "2026-09-07T18:24:51.091Z"
+          "lastSyncedAt": "2026-09-07T18:26:54.815Z"
         }
       ]
     },
