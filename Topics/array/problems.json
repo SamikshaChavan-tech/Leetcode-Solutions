@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T18:23:15.840Z",
+  "updatedAt": "2026-09-07T18:23:25.427Z",
   "problems": [
+    {
+      "frontendId": "2148",
+      "title": "Count Elements With Strictly Smaller and Greater Elements ",
+      "slug": "count-elements-with-strictly-smaller-and-greater-elements",
+      "problemName": "2148-count-elements-with-strictly-smaller-and-greater-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+      "folderPath": "2148-count-elements-with-strictly-smaller-and-greater-elements/",
+      "readmePath": "2148-count-elements-with-strictly-smaller-and-greater-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2148-count-elements-with-strictly-smaller-and-greater-elements.java",
+          "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.java",
+          "sha": "d8d7fc0c0f1f6d73c935b59a79da0779ce326db2",
+          "lastSyncedAt": "2026-09-07T18:23:25.427Z"
+        }
+      ]
+    },
     {
       "frontendId": "2529",
       "title": "Maximum Count of Positive Integer and Negative Integer",
