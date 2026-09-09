@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T15:20:01.774Z",
+  "updatedAt": "2026-09-09T15:20:05.136Z",
   "problems": [
     {
       "frontendId": "1",
@@ -202,7 +202,7 @@
           "filename": "2951-find-the-peaks.java",
           "path": "2951-find-the-peaks/2951-find-the-peaks.java",
           "sha": "3f7bcb8829813abccc30a4f050f6486464a6aef5",
-          "lastSyncedAt": "2026-09-07T18:38:40.996Z"
+          "lastSyncedAt": "2026-09-09T15:20:05.136Z"
         }
       ]
     },
