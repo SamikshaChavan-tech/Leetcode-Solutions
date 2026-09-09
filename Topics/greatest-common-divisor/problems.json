@@ -4,7 +4,7 @@
     "slug": "greatest-common-divisor",
     "name": "Greatest Common Divisor"
   },
-  "updatedAt": "2026-09-07T18:39:30.361Z",
+  "updatedAt": "2026-09-09T15:20:37.497Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -22,7 +22,7 @@
           "filename": "1979-find-greatest-common-divisor-of-array.java",
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "fb42f2eb9d1cc596b23574eab9d01b8471dec3ad",
-          "lastSyncedAt": "2026-09-07T18:39:01.631Z"
+          "lastSyncedAt": "2026-09-09T15:20:37.497Z"
         }
       ]
     },
