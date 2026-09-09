@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 18 | 2 | 0 |
+| 20 | 19 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 4 days | 14 |
+| 0 days | 5 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-10 | 1 |
 | 2026-08-19 | 1 |
 | 2026-08-22 | 1 |
 | 2026-08-25 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 80% |
-| Math | 6 | 30% |
+| Array | 15 | 75% |
+| Math | 7 | 35% |
 | Enumeration | 5 | 25% |
-| Binary Search | 3 | 15% |
 | Number Theory | 3 | 15% |
 | Sorting | 3 | 15% |
+| Binary Search | 2 | 10% |
 | Counting | 2 | 10% |
 | Euclidean Algorithm | 2 | 10% |
 | Greatest Common Divisor | 2 | 10% |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Impartial Game](Topics/impartial-game/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
