@@ -4,7 +4,7 @@
     "slug": "greatest-common-divisor",
     "name": "Greatest Common Divisor"
   },
-  "updatedAt": "2026-09-09T15:20:37.497Z",
+  "updatedAt": "2026-09-09T15:21:18.250Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -42,7 +42,7 @@
           "filename": "2427-number-of-common-factors.java",
           "path": "2427-number-of-common-factors/2427-number-of-common-factors.java",
           "sha": "6100586c2d7e5bc0e5b9117f1ff7e0e136c51800",
-          "lastSyncedAt": "2026-09-07T18:39:30.361Z"
+          "lastSyncedAt": "2026-09-09T15:21:18.250Z"
         }
       ]
     }
