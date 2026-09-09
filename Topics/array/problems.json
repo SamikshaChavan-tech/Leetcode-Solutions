@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T15:20:53.559Z",
+  "updatedAt": "2026-09-09T15:21:00.846Z",
   "problems": [
     {
       "frontendId": "1",
@@ -222,7 +222,7 @@
           "filename": "3028-ant-on-the-boundary.java",
           "path": "3028-ant-on-the-boundary/3028-ant-on-the-boundary.java",
           "sha": "7f2cf46e9bd125eef86af1ae7eb862ae977ea032",
-          "lastSyncedAt": "2026-09-07T18:39:19.677Z"
+          "lastSyncedAt": "2026-09-09T15:21:00.846Z"
         }
       ]
     },
