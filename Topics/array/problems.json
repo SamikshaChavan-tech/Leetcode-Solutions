@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T15:20:05.136Z",
+  "updatedAt": "2026-09-09T15:20:12.490Z",
   "problems": [
     {
       "frontendId": "1",
@@ -162,7 +162,7 @@
           "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.java",
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.java",
           "sha": "34c8a072f7b0896fb0bd6da0bec0c10149f00d64",
-          "lastSyncedAt": "2026-09-07T18:38:44.606Z"
+          "lastSyncedAt": "2026-09-09T15:20:12.490Z"
         }
       ]
     },
