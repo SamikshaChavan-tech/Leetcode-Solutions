@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-06T13:31:14.569Z",
+  "updatedAt": "2026-10-06T13:31:25.842Z",
   "problems": [
     {
       "frontendId": "137",
@@ -63,6 +63,26 @@
           "path": "1720-decode-xored-array/1720-decode-xored-array.java",
           "sha": "ca1c2ee5dd83be201c427759cb7a6f6221a9187f",
           "lastSyncedAt": "2026-10-06T13:27:18.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "slug": "first-letter-to-appear-twice",
+      "problemName": "2351-first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "folderPath": "2351-first-letter-to-appear-twice/",
+      "readmePath": "2351-first-letter-to-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2351-first-letter-to-appear-twice.java",
+          "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.java",
+          "sha": "a8694f12bf7823675ee664078797d6d80dd3ef7b",
+          "lastSyncedAt": "2026-10-06T13:31:25.842Z"
         }
       ]
     },
