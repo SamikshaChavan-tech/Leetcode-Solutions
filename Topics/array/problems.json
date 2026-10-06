@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:29:33.195Z",
+  "updatedAt": "2026-10-06T13:29:41.389Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "1816-truncate-sentence/1816-truncate-sentence.java",
           "sha": "fbbf1e15fe456224cb42c0765db33762dda70032",
           "lastSyncedAt": "2026-10-06T13:29:33.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1822-sign-of-the-product-of-an-array.java",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.java",
+          "sha": "c60885684c9052ab28c1f41ade5badc933423acb",
+          "lastSyncedAt": "2026-10-06T13:29:41.389Z"
         }
       ]
     },
