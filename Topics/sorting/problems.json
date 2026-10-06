@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T13:29:59.001Z",
+  "updatedAt": "2026-10-06T13:31:38.289Z",
   "problems": [
     {
       "frontendId": "1464",
@@ -83,6 +83,26 @@
           "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.java",
           "sha": "d8d7fc0c0f1f6d73c935b59a79da0779ce326db2",
           "lastSyncedAt": "2026-10-06T13:24:39.507Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2154-keep-multiplying-found-values-by-two.java",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.java",
+          "sha": "23aa17209f9679a9f131f3603459abd6777c4ecb",
+          "lastSyncedAt": "2026-10-06T13:31:38.289Z"
         }
       ]
     },
