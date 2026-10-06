@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:28:52.638Z",
+  "updatedAt": "2026-10-06T13:28:58.171Z",
   "problems": [
     {
       "frontendId": "371",
@@ -143,6 +143,26 @@
           "path": "2455-average-value-of-even-numbers-that-are-divisible-by-three/2455-average-value-of-even-numbers-that-are-divisible-by-three.java",
           "sha": "cf5d966b5f247586723c981e123f12b8b599b5ac",
           "lastSyncedAt": "2026-10-06T13:25:37.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2652",
+      "title": "Sum Multiples",
+      "slug": "sum-multiples",
+      "problemName": "2652-sum-multiples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-multiples/",
+      "folderPath": "2652-sum-multiples/",
+      "readmePath": "2652-sum-multiples/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2652-sum-multiples.java",
+          "path": "2652-sum-multiples/2652-sum-multiples.java",
+          "sha": "bbf5203cea609079bcd61854b638184d9a69729a",
+          "lastSyncedAt": "2026-10-06T13:28:58.171Z"
         }
       ]
     },
