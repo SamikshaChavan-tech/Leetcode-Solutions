@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-06T13:26:05.626Z",
+  "updatedAt": "2026-10-06T13:28:28.614Z",
   "problems": [
     {
       "frontendId": "1929",
@@ -23,6 +23,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
           "sha": "4d056107886a8455b65f08751987ff0345d2a896",
           "lastSyncedAt": "2026-10-06T13:26:05.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "fe9db29f50c672485eeb6b426cfd79a8ba5fea66",
+          "lastSyncedAt": "2026-10-06T13:28:28.614Z"
         }
       ]
     },
