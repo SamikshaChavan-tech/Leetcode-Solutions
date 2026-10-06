@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:23:45.222Z",
+  "updatedAt": "2026-10-06T13:23:55.051Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "92fa340b0ac858f2de32809865a0dfc435ea8168",
           "lastSyncedAt": "2026-10-06T13:23:21.515Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3701",
+      "title": "Compute Alternating Sum",
+      "slug": "compute-alternating-sum",
+      "problemName": "3701-compute-alternating-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/compute-alternating-sum/",
+      "folderPath": "3701-compute-alternating-sum/",
+      "readmePath": "3701-compute-alternating-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3701-compute-alternating-sum.java",
+          "path": "3701-compute-alternating-sum/3701-compute-alternating-sum.java",
+          "sha": "61ffb5c1d00f5b8d0c07c3f0a5b36e58226a3787",
+          "lastSyncedAt": "2026-10-06T13:23:55.051Z"
         }
       ]
     },
