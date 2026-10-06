@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-10-06T13:27:18.231Z",
+  "problems": [
+    {
+      "frontendId": "1720",
+      "title": "Decode XORed Array",
+      "slug": "decode-xored-array",
+      "problemName": "1720-decode-xored-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-xored-array/",
+      "folderPath": "1720-decode-xored-array/",
+      "readmePath": "1720-decode-xored-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1720-decode-xored-array.java",
+          "path": "1720-decode-xored-array/1720-decode-xored-array.java",
+          "sha": "ca1c2ee5dd83be201c427759cb7a6f6221a9187f",
+          "lastSyncedAt": "2026-10-06T13:27:18.231Z"
+        }
+      ]
+    }
+  ]
+}
