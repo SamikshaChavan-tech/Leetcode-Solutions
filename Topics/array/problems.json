@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:23:55.051Z",
+  "updatedAt": "2026-10-06T13:24:02.937Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "3131-find-the-integer-added-to-array-i/3131-find-the-integer-added-to-array-i.java",
           "sha": "59f556a3d0683ce4e5edebfc01f2c920b7959354",
           "lastSyncedAt": "2026-09-09T15:20:01.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3151",
+      "title": "Special Array I",
+      "slug": "special-array-i",
+      "problemName": "3151-special-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/special-array-i/",
+      "folderPath": "3151-special-array-i/",
+      "readmePath": "3151-special-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3151-special-array-i.java",
+          "path": "3151-special-array-i/3151-special-array-i.java",
+          "sha": "0cbd8ae3e24d1abe432d04b03747eb3405a65534",
+          "lastSyncedAt": "2026-10-06T13:24:02.937Z"
         }
       ]
     },
