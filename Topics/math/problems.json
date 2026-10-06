@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:26:43.391Z",
+  "updatedAt": "2026-10-06T13:28:11.578Z",
   "problems": [
     {
       "frontendId": "877",
@@ -163,6 +163,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
           "sha": "a3d6442c0edfa698290b630520786811c6d3c878",
           "lastSyncedAt": "2026-10-06T13:26:15.825Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3658-gcd-of-odd-and-even-sums.java",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
+          "sha": "effaa5bb8e2a75f2b5bf5797f8e648ba4119db7b",
+          "lastSyncedAt": "2026-10-06T13:28:11.578Z"
         }
       ]
     },
