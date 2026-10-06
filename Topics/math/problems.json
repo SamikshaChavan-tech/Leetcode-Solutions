@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:29:41.389Z",
+  "updatedAt": "2026-10-06T13:30:57.682Z",
   "problems": [
     {
       "frontendId": "69",
@@ -383,6 +383,26 @@
           "path": "3870-count-commas-in-range/3870-count-commas-in-range.java",
           "sha": "073f46ab2de078a957dac22b7d68af74e65c3f5b",
           "lastSyncedAt": "2026-10-06T13:24:05.515Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "3945-digit-frequency-score/",
+      "readmePath": "3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3945-digit-frequency-score.java",
+          "path": "3945-digit-frequency-score/3945-digit-frequency-score.java",
+          "sha": "a45ec68773dbb5b6b9852419191ac719d26a9872",
+          "lastSyncedAt": "2026-10-06T13:30:57.682Z"
         }
       ]
     }
