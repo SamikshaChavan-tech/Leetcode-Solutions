@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-06T13:30:49.064Z",
+  "updatedAt": "2026-10-06T13:31:14.569Z",
   "problems": [
     {
       "frontendId": "137",
@@ -63,6 +63,26 @@
           "path": "1720-decode-xored-array/1720-decode-xored-array.java",
           "sha": "ca1c2ee5dd83be201c427759cb7a6f6221a9187f",
           "lastSyncedAt": "2026-10-06T13:27:18.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3158",
+      "title": "Find the XOR of Numbers Which Appear Twice",
+      "slug": "find-the-xor-of-numbers-which-appear-twice",
+      "problemName": "3158-find-the-xor-of-numbers-which-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/",
+      "folderPath": "3158-find-the-xor-of-numbers-which-appear-twice/",
+      "readmePath": "3158-find-the-xor-of-numbers-which-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3158-find-the-xor-of-numbers-which-appear-twice.java",
+          "path": "3158-find-the-xor-of-numbers-which-appear-twice/3158-find-the-xor-of-numbers-which-appear-twice.java",
+          "sha": "08d9f61a8dd62fe0ff02c9d41fc17ed38a340c2e",
+          "lastSyncedAt": "2026-10-06T13:31:14.569Z"
         }
       ]
     }
