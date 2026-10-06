@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-06T13:32:12.539Z",
+  "updatedAt": "2026-10-06T13:32:22.870Z",
   "problems": [
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "1394-find-lucky-integer-in-an-array/",
+      "readmePath": "1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1394-find-lucky-integer-in-an-array.java",
+          "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.java",
+          "sha": "9cf98629f41093fc8bda67057a321175ee7b5486",
+          "lastSyncedAt": "2026-10-06T13:32:22.870Z"
+        }
+      ]
+    },
     {
       "frontendId": "1748",
       "title": "Sum of Unique Elements",
