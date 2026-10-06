@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:27:42.697Z",
+  "updatedAt": "2026-10-06T13:27:56.932Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,6 +263,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "e0840238a9d76644f28590229a3636d2325dd42e",
           "lastSyncedAt": "2026-10-06T13:25:32.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "problemName": "2798-number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "folderPath": "2798-number-of-employees-who-met-the-target/",
+      "readmePath": "2798-number-of-employees-who-met-the-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2798-number-of-employees-who-met-the-target.java",
+          "path": "2798-number-of-employees-who-met-the-target/2798-number-of-employees-who-met-the-target.java",
+          "sha": "306f4ff98e73ba52b7c5162c791cc5b218f13f76",
+          "lastSyncedAt": "2026-10-06T13:27:56.932Z"
         }
       ]
     },
