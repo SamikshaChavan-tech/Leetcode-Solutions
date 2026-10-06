@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:31:38.289Z",
+  "updatedAt": "2026-10-06T13:31:52.265Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
           "lastSyncedAt": "2026-10-06T13:26:43.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1207-unique-number-of-occurrences.java",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.java",
+          "sha": "5f7359a8708b08f4bb4dbf2c1079a9c4a58a871c",
+          "lastSyncedAt": "2026-10-06T13:31:52.265Z"
         }
       ]
     },
