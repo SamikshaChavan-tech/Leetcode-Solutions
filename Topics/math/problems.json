@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:31:05.672Z",
+  "updatedAt": "2026-10-06T13:33:16.543Z",
   "problems": [
     {
       "frontendId": "69",
@@ -383,6 +383,26 @@
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
           "sha": "effaa5bb8e2a75f2b5bf5797f8e648ba4119db7b",
           "lastSyncedAt": "2026-10-06T13:28:11.578Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3783",
+      "title": "Mirror Distance of an Integer",
+      "slug": "mirror-distance-of-an-integer",
+      "problemName": "3783-mirror-distance-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/mirror-distance-of-an-integer/",
+      "folderPath": "3783-mirror-distance-of-an-integer/",
+      "readmePath": "3783-mirror-distance-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3783-mirror-distance-of-an-integer.java",
+          "path": "3783-mirror-distance-of-an-integer/3783-mirror-distance-of-an-integer.java",
+          "sha": "e93914b6b6cb2ffa192c9fde67ee2c2ecd9b0a74",
+          "lastSyncedAt": "2026-10-06T13:33:16.543Z"
         }
       ]
     },
