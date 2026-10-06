@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:33:03.944Z",
+  "updatedAt": "2026-10-06T13:33:38.871Z",
   "problems": [
     {
       "frontendId": "1",
@@ -403,6 +403,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "fb42f2eb9d1cc596b23574eab9d01b8471dec3ad",
           "lastSyncedAt": "2026-10-06T13:24:56.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2057",
+      "title": "Smallest Index With Equal Value",
+      "slug": "smallest-index-with-equal-value",
+      "problemName": "2057-smallest-index-with-equal-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-equal-value/",
+      "folderPath": "2057-smallest-index-with-equal-value/",
+      "readmePath": "2057-smallest-index-with-equal-value/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2057-smallest-index-with-equal-value.java",
+          "path": "2057-smallest-index-with-equal-value/2057-smallest-index-with-equal-value.java",
+          "sha": "914500519a5695fc40ca3ca19902b74e7fa58012",
+          "lastSyncedAt": "2026-10-06T13:33:38.871Z"
         }
       ]
     },
