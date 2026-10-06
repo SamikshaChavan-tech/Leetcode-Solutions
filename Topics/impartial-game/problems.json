@@ -4,7 +4,7 @@
     "slug": "impartial-game",
     "name": "Impartial Game"
   },
-  "updatedAt": "2026-09-09T15:19:49.371Z",
+  "updatedAt": "2026-10-06T13:24:08.074Z",
   "problems": [
     {
       "frontendId": "1025",
@@ -22,7 +22,7 @@
           "filename": "1025-divisor-game.java",
           "path": "1025-divisor-game/1025-divisor-game.java",
           "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
-          "lastSyncedAt": "2026-09-09T15:19:49.371Z"
+          "lastSyncedAt": "2026-10-06T13:24:08.074Z"
         }
       ]
     }
