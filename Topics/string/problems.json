@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T13:29:33.195Z",
+  "updatedAt": "2026-10-06T13:31:25.842Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,6 +43,26 @@
           "path": "1816-truncate-sentence/1816-truncate-sentence.java",
           "sha": "fbbf1e15fe456224cb42c0765db33762dda70032",
           "lastSyncedAt": "2026-10-06T13:29:33.195Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "slug": "first-letter-to-appear-twice",
+      "problemName": "2351-first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "folderPath": "2351-first-letter-to-appear-twice/",
+      "readmePath": "2351-first-letter-to-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2351-first-letter-to-appear-twice.java",
+          "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.java",
+          "sha": "a8694f12bf7823675ee664078797d6d80dd3ef7b",
+          "lastSyncedAt": "2026-10-06T13:31:25.842Z"
         }
       ]
     }
