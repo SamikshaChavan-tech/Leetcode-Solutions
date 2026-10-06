@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-06T13:24:39.507Z",
+  "updatedAt": "2026-10-06T13:31:25.842Z",
   "problems": [
     {
       "frontendId": "2148",
@@ -23,6 +23,26 @@
           "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.java",
           "sha": "d8d7fc0c0f1f6d73c935b59a79da0779ce326db2",
           "lastSyncedAt": "2026-10-06T13:24:39.507Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "slug": "first-letter-to-appear-twice",
+      "problemName": "2351-first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "folderPath": "2351-first-letter-to-appear-twice/",
+      "readmePath": "2351-first-letter-to-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2351-first-letter-to-appear-twice.java",
+          "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.java",
+          "sha": "a8694f12bf7823675ee664078797d6d80dd3ef7b",
+          "lastSyncedAt": "2026-10-06T13:31:25.842Z"
         }
       ]
     },
