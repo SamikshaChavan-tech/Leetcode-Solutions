@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-10-06T13:30:09.038Z",
+  "problems": [
+    {
+      "frontendId": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "problemName": "0596-classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "folderPath": "0596-classes-with-at-least-5-students/",
+      "readmePath": "0596-classes-with-at-least-5-students/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0596-classes-with-at-least-5-students.sql",
+          "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
+          "sha": "c83dbe14b4537955559cfdef537f87fbd5635cb2",
+          "lastSyncedAt": "2026-10-06T13:30:09.038Z"
+        }
+      ]
+    }
+  ]
+}
