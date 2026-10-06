@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:33:22.872Z",
+  "updatedAt": "2026-10-06T13:33:32.417Z",
   "problems": [
     {
       "frontendId": "69",
@@ -263,6 +263,26 @@
           "path": "2652-sum-multiples/2652-sum-multiples.java",
           "sha": "bbf5203cea609079bcd61854b638184d9a69729a",
           "lastSyncedAt": "2026-10-06T13:28:58.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "problemName": "2894-divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "folderPath": "2894-divisible-and-non-divisible-sums-difference/",
+      "readmePath": "2894-divisible-and-non-divisible-sums-difference/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2894-divisible-and-non-divisible-sums-difference.java",
+          "path": "2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.java",
+          "sha": "bd658458d17e9b378c3748c867f80788347bd7ce",
+          "lastSyncedAt": "2026-10-06T13:33:32.417Z"
         }
       ]
     },
