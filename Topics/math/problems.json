@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:28:11.578Z",
+  "updatedAt": "2026-10-06T13:28:20.897Z",
   "problems": [
+    {
+      "frontendId": "371",
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "problemName": "0371-sum-of-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+      "folderPath": "0371-sum-of-two-integers/",
+      "readmePath": "0371-sum-of-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0371-sum-of-two-integers.java",
+          "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
+          "sha": "2ea222ad8ba30196de301824b8a5602a5307b317",
+          "lastSyncedAt": "2026-10-06T13:28:20.897Z"
+        }
+      ]
+    },
     {
       "frontendId": "877",
       "title": "Stone Game",
