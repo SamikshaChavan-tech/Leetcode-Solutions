@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-06T13:32:01.276Z",
+  "updatedAt": "2026-10-06T13:32:12.539Z",
   "problems": [
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1748-sum-of-unique-elements.java",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.java",
+          "sha": "14411c2aa31840e9fe7e524ce1182247cf6f2df8",
+          "lastSyncedAt": "2026-10-06T13:32:12.539Z"
+        }
+      ]
+    },
     {
       "frontendId": "1941",
       "title": "Check if All Characters Have Equal Number of Occurrences",
