@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-06T13:31:25.842Z",
+  "updatedAt": "2026-10-06T13:33:03.944Z",
   "problems": [
     {
       "frontendId": "137",
@@ -103,6 +103,26 @@
           "path": "3158-find-the-xor-of-numbers-which-appear-twice/3158-find-the-xor-of-numbers-which-appear-twice.java",
           "sha": "08d9f61a8dd62fe0ff02c9d41fc17ed38a340c2e",
           "lastSyncedAt": "2026-10-06T13:31:14.569Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3688",
+      "title": "Bitwise OR of Even Numbers in an Array",
+      "slug": "bitwise-or-of-even-numbers-in-an-array",
+      "problemName": "3688-bitwise-or-of-even-numbers-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/",
+      "folderPath": "3688-bitwise-or-of-even-numbers-in-an-array/",
+      "readmePath": "3688-bitwise-or-of-even-numbers-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3688-bitwise-or-of-even-numbers-in-an-array.java",
+          "path": "3688-bitwise-or-of-even-numbers-in-an-array/3688-bitwise-or-of-even-numbers-in-an-array.java",
+          "sha": "10a01fb352e1873a94f22766ca6167f77d5f19e3",
+          "lastSyncedAt": "2026-10-06T13:33:03.944Z"
         }
       ]
     }
