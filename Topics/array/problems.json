@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:31:52.265Z",
+  "updatedAt": "2026-10-06T13:32:12.539Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "1720-decode-xored-array/1720-decode-xored-array.java",
           "sha": "ca1c2ee5dd83be201c427759cb7a6f6221a9187f",
           "lastSyncedAt": "2026-10-06T13:27:18.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1748-sum-of-unique-elements.java",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.java",
+          "sha": "14411c2aa31840e9fe7e524ce1182247cf6f2df8",
+          "lastSyncedAt": "2026-10-06T13:32:12.539Z"
         }
       ]
     },
