@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:27:27.747Z",
+  "updatedAt": "2026-10-06T13:27:42.697Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,6 +263,26 @@
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "e0840238a9d76644f28590229a3636d2325dd42e",
           "lastSyncedAt": "2026-10-06T13:25:32.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.java",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
+          "sha": "b926c457207dc1fa7e8b156b6214564066c9a176",
+          "lastSyncedAt": "2026-10-06T13:27:42.697Z"
         }
       ]
     },
