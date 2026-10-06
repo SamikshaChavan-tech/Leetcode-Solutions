@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-06T13:33:03.944Z",
+  "updatedAt": "2026-10-06T13:33:22.872Z",
   "problems": [
     {
       "frontendId": "1929",
@@ -123,6 +123,26 @@
           "path": "3701-compute-alternating-sum/3701-compute-alternating-sum.java",
           "sha": "61ffb5c1d00f5b8d0c07c3f0a5b36e58226a3787",
           "lastSyncedAt": "2026-10-06T13:23:55.051Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3894",
+      "title": "Traffic Signal Color",
+      "slug": "traffic-signal-color",
+      "problemName": "3894-traffic-signal-color",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/traffic-signal-color/",
+      "folderPath": "3894-traffic-signal-color/",
+      "readmePath": "3894-traffic-signal-color/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3894-traffic-signal-color.java",
+          "path": "3894-traffic-signal-color/3894-traffic-signal-color.java",
+          "sha": "1aef555c6d2c66e8473b8b67e812ae264f1e60c2",
+          "lastSyncedAt": "2026-10-06T13:33:22.872Z"
         }
       ]
     },
