@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:27:56.932Z",
+  "updatedAt": "2026-10-06T13:28:03.280Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.java",
           "sha": "d8d7fc0c0f1f6d73c935b59a79da0779ce326db2",
           "lastSyncedAt": "2026-10-06T13:24:39.507Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2319",
+      "title": "Check if Matrix Is X-Matrix",
+      "slug": "check-if-matrix-is-x-matrix",
+      "problemName": "2319-check-if-matrix-is-x-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/",
+      "folderPath": "2319-check-if-matrix-is-x-matrix/",
+      "readmePath": "2319-check-if-matrix-is-x-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2319-check-if-matrix-is-x-matrix.java",
+          "path": "2319-check-if-matrix-is-x-matrix/2319-check-if-matrix-is-x-matrix.java",
+          "sha": "8122934e70d9b5c3f2cc123e7ee382eba5a0878d",
+          "lastSyncedAt": "2026-10-06T13:28:03.280Z"
         }
       ]
     },
