@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T13:23:31.033Z",
+  "updatedAt": "2026-10-06T13:27:42.697Z",
   "problems": [
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.java",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
+          "sha": "b926c457207dc1fa7e8b156b6214564066c9a176",
+          "lastSyncedAt": "2026-10-06T13:27:42.697Z"
+        }
+      ]
+    },
     {
       "frontendId": "3194",
       "title": "Minimum Average of Smallest and Largest Elements",
