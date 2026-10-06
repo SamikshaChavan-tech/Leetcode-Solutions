@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T13:28:47.009Z",
+  "updatedAt": "2026-10-06T13:28:52.638Z",
   "problems": [
     {
       "frontendId": "371",
@@ -143,6 +143,26 @@
           "path": "2455-average-value-of-even-numbers-that-are-divisible-by-three/2455-average-value-of-even-numbers-that-are-divisible-by-three.java",
           "sha": "cf5d966b5f247586723c981e123f12b8b599b5ac",
           "lastSyncedAt": "2026-10-06T13:25:37.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3099",
+      "title": "Harshad Number",
+      "slug": "harshad-number",
+      "problemName": "3099-harshad-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/harshad-number/",
+      "folderPath": "3099-harshad-number/",
+      "readmePath": "3099-harshad-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3099-harshad-number.java",
+          "path": "3099-harshad-number/3099-harshad-number.java",
+          "sha": "92342d966895ef9c64137eee005cad9cea208327",
+          "lastSyncedAt": "2026-10-06T13:28:52.638Z"
         }
       ]
     },
