@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T13:27:42.697Z",
+  "updatedAt": "2026-10-06T13:28:28.614Z",
   "problems": [
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "fe9db29f50c672485eeb6b426cfd79a8ba5fea66",
+          "lastSyncedAt": "2026-10-06T13:28:28.614Z"
+        }
+      ]
+    },
     {
       "frontendId": "2824",
       "title": "Count Pairs Whose Sum is Less than Target",
