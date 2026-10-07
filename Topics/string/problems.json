@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T13:05:43.848Z",
+  "updatedAt": "2026-10-07T13:10:52.906Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "f98c881d27ab5d0d717200789de6ff78dbc811c1",
           "lastSyncedAt": "2026-10-07T12:58:22.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "1108-defanging-an-ip-address/",
+      "readmePath": "1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1108-defanging-an-ip-address.java",
+          "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.java",
+          "sha": "17841d983c3f63ba1f9fa37252eabeb989dede7a",
+          "lastSyncedAt": "2026-10-07T13:10:52.906Z"
         }
       ]
     },
