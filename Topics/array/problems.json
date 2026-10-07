@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:06:27.541Z",
+  "updatedAt": "2026-10-07T13:06:47.115Z",
   "problems": [
     {
       "frontendId": "1",
@@ -683,6 +683,26 @@
           "path": "2951-find-the-peaks/2951-find-the-peaks.java",
           "sha": "3f7bcb8829813abccc30a4f050f6486464a6aef5",
           "lastSyncedAt": "2026-10-07T12:59:21.453Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3024-type-of-triangle.java",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.java",
+          "sha": "7a4c58752292f1a297b22aa72ca0913c1c108b90",
+          "lastSyncedAt": "2026-10-07T13:06:47.115Z"
         }
       ]
     },
