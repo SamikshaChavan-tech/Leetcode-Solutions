@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T13:08:02.292Z",
+  "updatedAt": "2026-10-07T13:08:26.183Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.java",
           "sha": "5f7359a8708b08f4bb4dbf2c1079a9c4a58a871c",
           "lastSyncedAt": "2026-10-07T13:04:50.723Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.java",
+          "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java",
+          "sha": "0965fa1c8069f6a4e068a747547b0c9d7d358c91",
+          "lastSyncedAt": "2026-10-07T13:08:26.183Z"
         }
       ]
     },
