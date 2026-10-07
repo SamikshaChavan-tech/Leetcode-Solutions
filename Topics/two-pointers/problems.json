@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T13:28:28.614Z",
+  "updatedAt": "2026-10-07T12:58:39.285Z",
   "problems": [
     {
       "frontendId": "2149",
@@ -62,7 +62,7 @@
           "filename": "3194-minimum-average-of-smallest-and-largest-elements.java",
           "path": "3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.java",
           "sha": "524de6f9a163ccd86da1ff2224d8953015db3961",
-          "lastSyncedAt": "2026-10-06T13:23:31.033Z"
+          "lastSyncedAt": "2026-10-07T12:58:39.285Z"
         }
       ]
     }
