@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:04:23.652Z",
+  "updatedAt": "2026-10-07T13:04:29.327Z",
   "problems": [
     {
       "frontendId": "1",
@@ -722,7 +722,7 @@
           "filename": "3158-find-the-xor-of-numbers-which-appear-twice.java",
           "path": "3158-find-the-xor-of-numbers-which-appear-twice/3158-find-the-xor-of-numbers-which-appear-twice.java",
           "sha": "08d9f61a8dd62fe0ff02c9d41fc17ed38a340c2e",
-          "lastSyncedAt": "2026-10-06T13:31:14.569Z"
+          "lastSyncedAt": "2026-10-07T13:04:29.327Z"
         }
       ]
     },
