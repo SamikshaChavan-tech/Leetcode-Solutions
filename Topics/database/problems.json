@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:15:25.677Z",
+  "updatedAt": "2026-10-07T13:15:35.020Z",
   "problems": [
     {
       "frontendId": "175",
@@ -103,6 +103,26 @@
           "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
           "sha": "ac7f62372b32a8f05754f8a007e693c24933469b",
           "lastSyncedAt": "2026-10-07T13:14:59.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "511",
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "problemName": "0511-game-play-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-i/",
+      "folderPath": "0511-game-play-analysis-i/",
+      "readmePath": "0511-game-play-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0511-game-play-analysis-i.sql",
+          "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.sql",
+          "sha": "ee25a14b7a04b9bed7ef827013afcbd197543667",
+          "lastSyncedAt": "2026-10-07T13:15:35.020Z"
         }
       ]
     },
