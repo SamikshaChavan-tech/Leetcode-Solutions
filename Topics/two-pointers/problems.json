@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-07T12:58:39.285Z",
+  "updatedAt": "2026-10-07T13:02:29.747Z",
   "problems": [
     {
       "frontendId": "2149",
@@ -42,7 +42,7 @@
           "filename": "2824-count-pairs-whose-sum-is-less-than-target.java",
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
           "sha": "b926c457207dc1fa7e8b156b6214564066c9a176",
-          "lastSyncedAt": "2026-10-06T13:27:42.697Z"
+          "lastSyncedAt": "2026-10-07T13:02:29.747Z"
         }
       ]
     },
