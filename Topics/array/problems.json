@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T12:58:55.410Z",
+  "updatedAt": "2026-10-07T12:58:59.525Z",
   "problems": [
     {
       "frontendId": "1",
@@ -702,7 +702,7 @@
           "filename": "3151-special-array-i.java",
           "path": "3151-special-array-i/3151-special-array-i.java",
           "sha": "0cbd8ae3e24d1abe432d04b03747eb3405a65534",
-          "lastSyncedAt": "2026-10-06T13:24:02.937Z"
+          "lastSyncedAt": "2026-10-07T12:58:59.525Z"
         }
       ]
     },
