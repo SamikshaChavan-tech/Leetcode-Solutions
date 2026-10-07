@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:34.099Z",
+  "updatedAt": "2026-10-07T13:14:40.501Z",
   "problems": [
     {
       "frontendId": "175",
@@ -263,6 +263,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "94f683fdc34753f202977487e00f27cabbcc60f8",
           "lastSyncedAt": "2026-10-07T13:14:34.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1741",
+      "title": "Find Total Time Spent by Each Employee",
+      "slug": "find-total-time-spent-by-each-employee",
+      "problemName": "1741-find-total-time-spent-by-each-employee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-total-time-spent-by-each-employee/",
+      "folderPath": "1741-find-total-time-spent-by-each-employee/",
+      "readmePath": "1741-find-total-time-spent-by-each-employee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1741-find-total-time-spent-by-each-employee.sql",
+          "path": "1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql",
+          "sha": "56d3a6d1a91d5d3e29a2b0d9a7cc527bed92799c",
+          "lastSyncedAt": "2026-10-07T13:14:40.501Z"
         }
       ]
     },
