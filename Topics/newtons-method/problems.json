@@ -4,7 +4,7 @@
     "slug": "newtons-method",
     "name": "Newton's Method"
   },
-  "updatedAt": "2026-10-06T13:29:21.011Z",
+  "updatedAt": "2026-10-07T13:03:26.254Z",
   "problems": [
     {
       "frontendId": "69",
@@ -22,7 +22,7 @@
           "filename": "0069-sqrtx.java",
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "f7d44014e49bb0146e3b3cc11e9d3498df905d0a",
-          "lastSyncedAt": "2026-10-06T13:29:21.011Z"
+          "lastSyncedAt": "2026-10-07T13:03:26.254Z"
         }
       ]
     }
