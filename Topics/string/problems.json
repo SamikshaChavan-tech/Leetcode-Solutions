@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T13:11:41.057Z",
+  "updatedAt": "2026-10-07T13:11:55.850Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,6 +43,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "6540d5e65306e544131a371110065ee567092904",
           "lastSyncedAt": "2026-10-07T13:11:41.057Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "76fcc72ffaaff1744968881ad5a0ce740d3533de",
+          "lastSyncedAt": "2026-10-07T13:11:55.850Z"
         }
       ]
     },
