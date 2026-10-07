@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:16:24.615Z",
+  "updatedAt": "2026-10-07T13:16:30.971Z",
   "problems": [
     {
       "frontendId": "175",
@@ -643,6 +643,26 @@
           "path": "1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
           "sha": "ac105af8eab33c6eb5ed78a129e9539596f3571e",
           "lastSyncedAt": "2026-10-07T13:13:49.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1890",
+      "title": "The Latest Login in 2020",
+      "slug": "the-latest-login-in-2020",
+      "problemName": "1890-the-latest-login-in-2020",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-latest-login-in-2020/",
+      "folderPath": "1890-the-latest-login-in-2020/",
+      "readmePath": "1890-the-latest-login-in-2020/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1890-the-latest-login-in-2020.sql",
+          "path": "1890-the-latest-login-in-2020/1890-the-latest-login-in-2020.sql",
+          "sha": "f53c88b97e1a70b5ecf14a89f7142d9f15b8050a",
+          "lastSyncedAt": "2026-10-07T13:16:30.971Z"
         }
       ]
     },
