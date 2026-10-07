@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-07T13:00:29.634Z",
+  "updatedAt": "2026-10-07T13:07:35.464Z",
   "problems": [
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1480-running-sum-of-1d-array.java",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java",
+          "sha": "3f22452f96d08cccea9b6e5c55c6c39b8f633928",
+          "lastSyncedAt": "2026-10-07T13:07:35.464Z"
+        }
+      ]
+    },
     {
       "frontendId": "3028",
       "title": "Ant on the Boundary",
