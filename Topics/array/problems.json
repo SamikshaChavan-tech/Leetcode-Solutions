@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:06:06.003Z",
+  "updatedAt": "2026-10-07T13:06:27.541Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,6 +443,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "fb42f2eb9d1cc596b23574eab9d01b8471dec3ad",
           "lastSyncedAt": "2026-10-07T12:59:59.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2006",
+      "title": "Count Number of Pairs With Absolute Difference K",
+      "slug": "count-number-of-pairs-with-absolute-difference-k",
+      "problemName": "2006-count-number-of-pairs-with-absolute-difference-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+      "folderPath": "2006-count-number-of-pairs-with-absolute-difference-k/",
+      "readmePath": "2006-count-number-of-pairs-with-absolute-difference-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2006-count-number-of-pairs-with-absolute-difference-k.java",
+          "path": "2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.java",
+          "sha": "9428f2ba1673e7715c2b061ecf5b788e8b71cc58",
+          "lastSyncedAt": "2026-10-07T13:06:27.541Z"
         }
       ]
     },
