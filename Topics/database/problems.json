@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:11.059Z",
+  "updatedAt": "2026-10-07T13:14:16.605Z",
   "problems": [
     {
       "frontendId": "175",
@@ -243,6 +243,26 @@
           "path": "1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
           "sha": "ac105af8eab33c6eb5ed78a129e9539596f3571e",
           "lastSyncedAt": "2026-10-07T13:13:49.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1965",
+      "title": "Employees With Missing Information",
+      "slug": "employees-with-missing-information",
+      "problemName": "1965-employees-with-missing-information",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-with-missing-information/",
+      "folderPath": "1965-employees-with-missing-information/",
+      "readmePath": "1965-employees-with-missing-information/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1965-employees-with-missing-information.sql",
+          "path": "1965-employees-with-missing-information/1965-employees-with-missing-information.sql",
+          "sha": "54433632b5f93b1affa92cd130a08e0a396ece47",
+          "lastSyncedAt": "2026-10-07T13:14:16.605Z"
         }
       ]
     },
