@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-07T12:58:55.410Z",
+  "updatedAt": "2026-10-07T13:00:29.634Z",
   "problems": [
     {
       "frontendId": "1929",
@@ -82,7 +82,7 @@
           "filename": "3028-ant-on-the-boundary.java",
           "path": "3028-ant-on-the-boundary/3028-ant-on-the-boundary.java",
           "sha": "7f2cf46e9bd125eef86af1ae7eb862ae977ea032",
-          "lastSyncedAt": "2026-10-06T13:25:25.349Z"
+          "lastSyncedAt": "2026-10-07T13:00:29.634Z"
         }
       ]
     },
