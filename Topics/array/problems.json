@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:05:53.495Z",
+  "updatedAt": "2026-10-07T13:05:57.072Z",
   "problems": [
     {
       "frontendId": "1",
@@ -142,7 +142,7 @@
           "filename": "0540-single-element-in-a-sorted-array.java",
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
           "sha": "da4b153134c7af98d70c0b8950bdf34004229c2f",
-          "lastSyncedAt": "2026-10-06T13:33:45.934Z"
+          "lastSyncedAt": "2026-10-07T13:05:57.072Z"
         }
       ]
     },
