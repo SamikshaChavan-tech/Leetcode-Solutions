@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T13:06:47.115Z",
+  "updatedAt": "2026-10-07T13:08:11.529Z",
   "problems": [
     {
       "frontendId": "50",
@@ -123,6 +123,26 @@
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
           "sha": "30604dbb522bbf7bb85f01d37ced7411314710ed",
           "lastSyncedAt": "2026-10-07T13:03:23.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.java",
+          "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.java",
+          "sha": "73959727dfd18d35f6beaf64dda386b8d33d1a3e",
+          "lastSyncedAt": "2026-10-07T13:08:11.529Z"
         }
       ]
     },
