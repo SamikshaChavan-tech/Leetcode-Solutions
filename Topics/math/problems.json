@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T13:10:59.112Z",
+  "updatedAt": "2026-10-07T13:11:10.377Z",
   "problems": [
     {
       "frontendId": "50",
@@ -63,6 +63,26 @@
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
           "sha": "2ea222ad8ba30196de301824b8a5602a5307b317",
           "lastSyncedAt": "2026-10-07T13:02:53.601Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "507",
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "problemName": "0507-perfect-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+      "folderPath": "0507-perfect-number/",
+      "readmePath": "0507-perfect-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0507-perfect-number.java",
+          "path": "0507-perfect-number/0507-perfect-number.java",
+          "sha": "a9a9ab8d7b1022ea97cbda528bd82a703bd09045",
+          "lastSyncedAt": "2026-10-07T13:11:10.377Z"
         }
       ]
     },
