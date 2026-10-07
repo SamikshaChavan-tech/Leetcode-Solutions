@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:16:30.971Z",
+  "updatedAt": "2026-10-07T13:16:44.354Z",
   "problems": [
     {
       "frontendId": "175",
@@ -423,6 +423,26 @@
           "path": "1327-list-the-products-ordered-in-a-period/1327-list-the-products-ordered-in-a-period.sql",
           "sha": "b51ef343ac179513d1fdb94bc4e9e15eae32ed88",
           "lastSyncedAt": "2026-10-07T13:14:52.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1407",
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "problemName": "1407-top-travellers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/top-travellers/",
+      "folderPath": "1407-top-travellers/",
+      "readmePath": "1407-top-travellers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1407-top-travellers.sql",
+          "path": "1407-top-travellers/1407-top-travellers.sql",
+          "sha": "a3c8fde7c58b21d40dc75331334fbbc993f5fd32",
+          "lastSyncedAt": "2026-10-07T13:16:44.354Z"
         }
       ]
     },
