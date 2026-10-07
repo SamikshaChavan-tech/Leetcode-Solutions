@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-07T13:08:11.529Z",
+  "updatedAt": "2026-10-07T13:08:17.443Z",
   "problems": [
     {
       "frontendId": "50",
@@ -123,6 +123,26 @@
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
           "sha": "30604dbb522bbf7bb85f01d37ced7411314710ed",
           "lastSyncedAt": "2026-10-07T13:03:23.904Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "1486-xor-operation-in-an-array/",
+      "readmePath": "1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1486-xor-operation-in-an-array.java",
+          "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java",
+          "sha": "fc240c9e14c9ba90e27d20488c3093b8b20df2f4",
+          "lastSyncedAt": "2026-10-07T13:08:17.443Z"
         }
       ]
     },
