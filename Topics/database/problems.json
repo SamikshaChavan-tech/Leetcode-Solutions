@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:52.045Z",
+  "updatedAt": "2026-10-07T13:14:59.323Z",
   "problems": [
     {
       "frontendId": "175",
@@ -83,6 +83,26 @@
           "path": "0184-department-highest-salary/0184-department-highest-salary.sql",
           "sha": "79884d050f5f2f1908b84294b0550be9066c8e45",
           "lastSyncedAt": "2026-10-07T13:14:00.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "problemName": "0196-delete-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "folderPath": "0196-delete-duplicate-emails/",
+      "readmePath": "0196-delete-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0196-delete-duplicate-emails.sql",
+          "path": "0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql",
+          "sha": "ac7f62372b32a8f05754f8a007e693c24933469b",
+          "lastSyncedAt": "2026-10-07T13:14:59.323Z"
         }
       ]
     },
