@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:05.418Z",
+  "updatedAt": "2026-10-07T13:14:11.059Z",
   "problems": [
     {
       "frontendId": "175",
@@ -183,6 +183,26 @@
           "path": "1084-sales-analysis-iii/1084-sales-analysis-iii.sql",
           "sha": "f07f627563bff68df523485e2e4415d9125a7ea5",
           "lastSyncedAt": "2026-10-07T13:13:54.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "problemName": "1141-user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+      "folderPath": "1141-user-activity-for-the-past-30-days-i/",
+      "readmePath": "1141-user-activity-for-the-past-30-days-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1141-user-activity-for-the-past-30-days-i.sql",
+          "path": "1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql",
+          "sha": "c73cc956098b896c9eb096e4ba98d3b005c01ae0",
+          "lastSyncedAt": "2026-10-07T13:14:11.059Z"
         }
       ]
     },
