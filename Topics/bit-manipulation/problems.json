@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-07T13:06:06.003Z",
+  "updatedAt": "2026-10-07T13:08:17.443Z",
   "problems": [
     {
       "frontendId": "137",
@@ -63,6 +63,26 @@
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
           "sha": "2ea222ad8ba30196de301824b8a5602a5307b317",
           "lastSyncedAt": "2026-10-07T13:02:53.601Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "1486-xor-operation-in-an-array/",
+      "readmePath": "1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1486-xor-operation-in-an-array.java",
+          "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java",
+          "sha": "fc240c9e14c9ba90e27d20488c3093b8b20df2f4",
+          "lastSyncedAt": "2026-10-07T13:08:17.443Z"
         }
       ]
     },
