@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:12:28.018Z",
+  "updatedAt": "2026-10-07T13:12:46.005Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,6 +283,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "175b7a802afba217631de30d0bbde1eed222ab6c",
           "lastSyncedAt": "2026-10-07T13:12:28.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "e20b8e26eb05424eb7f9ca56f0e6193722f8500c",
+          "lastSyncedAt": "2026-10-07T13:12:46.005Z"
         }
       ]
     },
