@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:01:14.198Z",
+  "updatedAt": "2026-10-07T13:01:19.830Z",
   "problems": [
     {
       "frontendId": "1",
@@ -842,7 +842,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.java",
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "3dc05628cd44b9af51e0890379b06bcc6f8e4654",
-          "lastSyncedAt": "2026-10-06T13:26:10.950Z"
+          "lastSyncedAt": "2026-10-07T13:01:19.830Z"
         }
       ]
     },
