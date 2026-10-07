@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T13:10:30.019Z",
+  "updatedAt": "2026-10-07T13:10:59.112Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,6 +223,26 @@
           "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.java",
           "sha": "9cf98629f41093fc8bda67057a321175ee7b5486",
           "lastSyncedAt": "2026-10-07T13:05:08.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1512-number-of-good-pairs.java",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.java",
+          "sha": "2ca6cea0865211a0c450ec36134dba61dc4fd199",
+          "lastSyncedAt": "2026-10-07T13:10:59.112Z"
         }
       ]
     },
