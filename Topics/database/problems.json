@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:59.323Z",
+  "updatedAt": "2026-10-07T13:15:04.834Z",
   "problems": [
     {
       "frontendId": "175",
@@ -323,6 +323,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "94f683fdc34753f202977487e00f27cabbcc60f8",
           "lastSyncedAt": "2026-10-07T13:14:34.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1729",
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "problemName": "1729-find-followers-count",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-followers-count/",
+      "folderPath": "1729-find-followers-count/",
+      "readmePath": "1729-find-followers-count/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1729-find-followers-count.sql",
+          "path": "1729-find-followers-count/1729-find-followers-count.sql",
+          "sha": "fcd430b45ae11566b6fbf7e717e1fefe92bc36d0",
+          "lastSyncedAt": "2026-10-07T13:15:04.834Z"
         }
       ]
     },
