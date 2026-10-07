@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T13:09:16.185Z",
+  "updatedAt": "2026-10-07T13:09:43.580Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.java",
           "sha": "1ad10405a6439727f9dcb6cae1d365a0578b876f",
           "lastSyncedAt": "2026-10-07T13:08:02.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0645-set-mismatch.java",
+          "path": "0645-set-mismatch/0645-set-mismatch.java",
+          "sha": "1b2ebf523673839a11d24dde196a4248795afdf4",
+          "lastSyncedAt": "2026-10-07T13:09:43.580Z"
         }
       ]
     },
