@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:00:13.932Z",
+  "updatedAt": "2026-10-07T13:00:20.023Z",
   "problems": [
     {
       "frontendId": "1",
@@ -862,7 +862,7 @@
           "filename": "3745-maximize-expression-of-three-elements.java",
           "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.java",
           "sha": "2670ab369c8714084626c288170f33f0267a79c4",
-          "lastSyncedAt": "2026-10-06T13:25:16.475Z"
+          "lastSyncedAt": "2026-10-07T13:00:20.023Z"
         }
       ]
     },
