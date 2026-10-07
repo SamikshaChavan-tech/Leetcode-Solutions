@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:06:47.115Z",
+  "updatedAt": "2026-10-07T13:07:00.905Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0162-find-peak-element/0162-find-peak-element.java",
           "sha": "de61cedd3388b8282d92796096f4a73bbfe7fab5",
           "lastSyncedAt": "2026-10-07T13:01:34.640Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "164",
+      "title": "Maximum Gap",
+      "slug": "maximum-gap",
+      "problemName": "0164-maximum-gap",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-gap/",
+      "folderPath": "0164-maximum-gap/",
+      "readmePath": "0164-maximum-gap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0164-maximum-gap.java",
+          "path": "0164-maximum-gap/0164-maximum-gap.java",
+          "sha": "b24fd908555c21240cc4ecd45af92395ed833b61",
+          "lastSyncedAt": "2026-10-07T13:07:00.905Z"
         }
       ]
     },
