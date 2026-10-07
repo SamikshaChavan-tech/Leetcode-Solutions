@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T13:08:26.183Z",
+  "updatedAt": "2026-10-07T13:08:54.046Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0706-design-hashmap/0706-design-hashmap.java",
           "sha": "879ec18d2ba82c02176ec8a567806582642b4799",
           "lastSyncedAt": "2026-10-07T13:05:13.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "slug": "n-repeated-element-in-size-2n-array",
+      "problemName": "0961-n-repeated-element-in-size-2n-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+      "folderPath": "0961-n-repeated-element-in-size-2n-array/",
+      "readmePath": "0961-n-repeated-element-in-size-2n-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0961-n-repeated-element-in-size-2n-array.java",
+          "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.java",
+          "sha": "1416bcbbdb1e214d7a8f1092ef9edde20082d73b",
+          "lastSyncedAt": "2026-10-07T13:08:54.046Z"
         }
       ]
     },
