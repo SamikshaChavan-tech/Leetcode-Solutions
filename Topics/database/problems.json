@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:28.261Z",
+  "updatedAt": "2026-10-07T13:14:34.099Z",
   "problems": [
     {
       "frontendId": "175",
@@ -243,6 +243,26 @@
           "path": "1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
           "sha": "d0372b90e0feae9c335c30964b9c0957ee2e6698",
           "lastSyncedAt": "2026-10-07T13:14:28.261Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1667",
+      "title": "Fix Names in a Table",
+      "slug": "fix-names-in-a-table",
+      "problemName": "1667-fix-names-in-a-table",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fix-names-in-a-table/",
+      "folderPath": "1667-fix-names-in-a-table/",
+      "readmePath": "1667-fix-names-in-a-table/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1667-fix-names-in-a-table.sql",
+          "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
+          "sha": "94f683fdc34753f202977487e00f27cabbcc60f8",
+          "lastSyncedAt": "2026-10-07T13:14:34.099Z"
         }
       ]
     },
