@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:40.501Z",
+  "updatedAt": "2026-10-07T13:14:46.602Z",
   "problems": [
     {
       "frontendId": "175",
@@ -223,6 +223,26 @@
           "path": "1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql",
           "sha": "c73cc956098b896c9eb096e4ba98d3b005c01ae0",
           "lastSyncedAt": "2026-10-07T13:14:11.059Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1587",
+      "title": "Bank Account Summary II",
+      "slug": "bank-account-summary-ii",
+      "problemName": "1587-bank-account-summary-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/bank-account-summary-ii/",
+      "folderPath": "1587-bank-account-summary-ii/",
+      "readmePath": "1587-bank-account-summary-ii/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1587-bank-account-summary-ii.sql",
+          "path": "1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql",
+          "sha": "f4f1ab223c959269e79220dc9104035503878e84",
+          "lastSyncedAt": "2026-10-07T13:14:46.602Z"
         }
       ]
     },
