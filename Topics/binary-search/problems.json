@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-07T13:07:44.331Z",
+  "updatedAt": "2026-10-07T13:09:04.184Z",
   "problems": [
     {
       "frontendId": "69",
@@ -163,6 +163,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.java",
           "sha": "0accd478912599b4524b0c99f5faa83742f4ccd4",
           "lastSyncedAt": "2026-10-07T13:07:44.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2089-find-target-indices-after-sorting-array.java",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
+          "sha": "d1e123fc2ac0154775490c702dd7f43f7781de7e",
+          "lastSyncedAt": "2026-10-07T13:09:04.184Z"
         }
       ]
     },
