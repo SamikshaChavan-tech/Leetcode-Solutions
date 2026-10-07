@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:10:30.019Z",
+  "updatedAt": "2026-10-07T13:10:59.112Z",
   "problems": [
     {
       "frontendId": "1",
@@ -603,6 +603,26 @@
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "b871ad69d10316506829c2c92c473202b1812bd6",
           "lastSyncedAt": "2026-10-07T13:03:48.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1512-number-of-good-pairs.java",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.java",
+          "sha": "2ca6cea0865211a0c450ec36134dba61dc4fd199",
+          "lastSyncedAt": "2026-10-07T13:10:59.112Z"
         }
       ]
     },
