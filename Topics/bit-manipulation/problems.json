@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-07T13:11:46.870Z",
+  "updatedAt": "2026-10-07T13:12:28.018Z",
   "problems": [
     {
       "frontendId": "136",
@@ -63,6 +63,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.java",
           "sha": "dcf83652b34155a9c3f0cc5fa41267bdd7f3b9a2",
           "lastSyncedAt": "2026-10-07T13:11:32.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "175b7a802afba217631de30d0bbde1eed222ab6c",
+          "lastSyncedAt": "2026-10-07T13:12:28.018Z"
         }
       ]
     },
