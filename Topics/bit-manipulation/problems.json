@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-07T13:11:32.997Z",
+  "updatedAt": "2026-10-07T13:11:46.870Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "0136-single-number/",
+      "readmePath": "0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0136-single-number.java",
+          "path": "0136-single-number/0136-single-number.java",
+          "sha": "b17528ff301c0d4b51546b7c590a17fe69c42559",
+          "lastSyncedAt": "2026-10-07T13:11:46.870Z"
+        }
+      ]
+    },
     {
       "frontendId": "137",
       "title": "Single Number II",
