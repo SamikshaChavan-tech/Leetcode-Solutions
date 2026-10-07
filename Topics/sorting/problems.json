@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-07T13:07:53.678Z",
+  "updatedAt": "2026-10-07T13:08:02.292Z",
   "problems": [
     {
       "frontendId": "164",
@@ -63,6 +63,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.java",
           "sha": "2086c5694739ce8221096145615de0772fb6a08d",
           "lastSyncedAt": "2026-10-07T13:05:29.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "problemName": "0442-find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+      "folderPath": "0442-find-all-duplicates-in-an-array/",
+      "readmePath": "0442-find-all-duplicates-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0442-find-all-duplicates-in-an-array.java",
+          "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.java",
+          "sha": "1ad10405a6439727f9dcb6cae1d365a0578b876f",
+          "lastSyncedAt": "2026-10-07T13:08:02.292Z"
         }
       ]
     },
