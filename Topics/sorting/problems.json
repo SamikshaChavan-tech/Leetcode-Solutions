@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-07T13:05:29.003Z",
+  "updatedAt": "2026-10-07T13:06:47.115Z",
   "problems": [
     {
       "frontendId": "217",
@@ -143,6 +143,26 @@
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.java",
           "sha": "b926c457207dc1fa7e8b156b6214564066c9a176",
           "lastSyncedAt": "2026-10-07T13:02:29.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3024-type-of-triangle.java",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.java",
+          "sha": "7a4c58752292f1a297b22aa72ca0913c1c108b90",
+          "lastSyncedAt": "2026-10-07T13:06:47.115Z"
         }
       ]
     },
