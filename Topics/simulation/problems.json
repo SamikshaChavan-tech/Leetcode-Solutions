@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-06T13:33:22.872Z",
+  "updatedAt": "2026-10-07T12:58:49.259Z",
   "problems": [
     {
       "frontendId": "1929",
@@ -162,7 +162,7 @@
           "filename": "3925-concatenate-array-with-reverse.java",
           "path": "3925-concatenate-array-with-reverse/3925-concatenate-array-with-reverse.java",
           "sha": "7ce0fe0f30384d23492253da897e66d03e98f981",
-          "lastSyncedAt": "2026-10-06T13:23:45.222Z"
+          "lastSyncedAt": "2026-10-07T12:58:49.259Z"
         }
       ]
     }
