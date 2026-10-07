@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-07T13:09:43.580Z",
+  "updatedAt": "2026-10-07T13:10:30.019Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "9a4fb37ff98823cb4bf303f53e32497c1d83c375",
           "lastSyncedAt": "2026-10-07T12:59:52.410Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0169-majority-element.java",
+          "path": "0169-majority-element/0169-majority-element.java",
+          "sha": "d442fde1aa9c6923817fb232766916affefbe0bc",
+          "lastSyncedAt": "2026-10-07T13:10:30.019Z"
         }
       ]
     },
