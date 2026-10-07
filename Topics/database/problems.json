@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:10:04.524Z",
+  "updatedAt": "2026-10-07T13:13:43.547Z",
   "problems": [
     {
       "frontendId": "175",
@@ -143,6 +143,26 @@
           "path": "1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql",
           "sha": "8a89eb4d5c4ab367e2c7add314095798672bb1e8",
           "lastSyncedAt": "2026-10-07T13:10:04.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3436",
+      "title": "Find Valid Emails",
+      "slug": "find-valid-emails",
+      "problemName": "3436-find-valid-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-valid-emails/",
+      "folderPath": "3436-find-valid-emails/",
+      "readmePath": "3436-find-valid-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3436-find-valid-emails.sql",
+          "path": "3436-find-valid-emails/3436-find-valid-emails.sql",
+          "sha": "8d423e749caa6a457a0ab096ce087ad8ce8db516",
+          "lastSyncedAt": "2026-10-07T13:13:43.547Z"
         }
       ]
     }
