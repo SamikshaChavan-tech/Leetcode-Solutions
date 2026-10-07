@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:03:56.055Z",
+  "updatedAt": "2026-10-07T13:03:59.143Z",
   "problems": [
     {
       "frontendId": "175",
@@ -62,7 +62,7 @@
           "filename": "0584-find-customer-referee.sql",
           "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
           "sha": "082637de71f03158b0dda2454e59db7e1907633e",
-          "lastSyncedAt": "2026-10-06T13:30:24.806Z"
+          "lastSyncedAt": "2026-10-07T13:03:59.143Z"
         }
       ]
     },
