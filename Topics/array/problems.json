@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:08:54.046Z",
+  "updatedAt": "2026-10-07T13:09:04.184Z",
   "problems": [
     {
       "frontendId": "1",
@@ -623,6 +623,26 @@
           "path": "2057-smallest-index-with-equal-value/2057-smallest-index-with-equal-value.java",
           "sha": "914500519a5695fc40ca3ca19902b74e7fa58012",
           "lastSyncedAt": "2026-10-07T13:05:53.495Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2089-find-target-indices-after-sorting-array.java",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java",
+          "sha": "d1e123fc2ac0154775490c702dd7f43f7781de7e",
+          "lastSyncedAt": "2026-10-07T13:09:04.184Z"
         }
       ]
     },
