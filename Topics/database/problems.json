@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:15:04.834Z",
+  "updatedAt": "2026-10-07T13:15:11.173Z",
   "problems": [
     {
       "frontendId": "175",
@@ -323,6 +323,26 @@
           "path": "1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql",
           "sha": "94f683fdc34753f202977487e00f27cabbcc60f8",
           "lastSyncedAt": "2026-10-07T13:14:34.099Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1693",
+      "title": "Daily Leads and Partners",
+      "slug": "daily-leads-and-partners",
+      "problemName": "1693-daily-leads-and-partners",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-leads-and-partners/",
+      "folderPath": "1693-daily-leads-and-partners/",
+      "readmePath": "1693-daily-leads-and-partners/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1693-daily-leads-and-partners.sql",
+          "path": "1693-daily-leads-and-partners/1693-daily-leads-and-partners.sql",
+          "sha": "94b992601c6e36d46613e975809286d0345b9dee",
+          "lastSyncedAt": "2026-10-07T13:15:11.173Z"
         }
       ]
     },
