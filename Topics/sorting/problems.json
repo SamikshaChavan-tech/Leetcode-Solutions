@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-07T13:07:18.870Z",
+  "updatedAt": "2026-10-07T13:07:53.678Z",
   "problems": [
     {
       "frontendId": "164",
@@ -163,6 +163,26 @@
           "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.java",
           "sha": "23aa17209f9679a9f131f3603459abd6777c4ecb",
           "lastSyncedAt": "2026-10-07T13:04:42.185Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2733",
+      "title": "Neither Minimum nor Maximum",
+      "slug": "neither-minimum-nor-maximum",
+      "problemName": "2733-neither-minimum-nor-maximum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/neither-minimum-nor-maximum/",
+      "folderPath": "2733-neither-minimum-nor-maximum/",
+      "readmePath": "2733-neither-minimum-nor-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2733-neither-minimum-nor-maximum.java",
+          "path": "2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.java",
+          "sha": "b8afd6cbdf90eae89b5c5ca654476e9f64a5e85d",
+          "lastSyncedAt": "2026-10-07T13:07:53.678Z"
         }
       ]
     },
