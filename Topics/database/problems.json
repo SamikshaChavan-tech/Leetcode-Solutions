@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-10-07T13:14:16.605Z",
+  "updatedAt": "2026-10-07T13:14:22.927Z",
   "problems": [
     {
       "frontendId": "175",
@@ -23,6 +23,26 @@
           "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
           "sha": "e3801d8e21e4b5cd2e92fab07ce11f0081989e85",
           "lastSyncedAt": "2026-10-07T13:04:08.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "0178-rank-scores/",
+      "readmePath": "0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "0178-rank-scores/0178-rank-scores.sql",
+          "sha": "c8a601c2c60ed496635537d8af5cca0b89cd142b",
+          "lastSyncedAt": "2026-10-07T13:14:22.927Z"
         }
       ]
     },
