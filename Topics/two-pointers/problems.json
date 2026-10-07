@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-07T13:02:58.049Z",
+  "updatedAt": "2026-10-07T13:06:06.003Z",
   "problems": [
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "0287-find-the-duplicate-number/",
+      "readmePath": "0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
+          "sha": "5108fce045a89902815cfc8d561fc6bcd2d3b6d1",
+          "lastSyncedAt": "2026-10-07T13:06:06.003Z"
+        }
+      ]
+    },
     {
       "frontendId": "2149",
       "title": "Rearrange Array Elements by Sign",
