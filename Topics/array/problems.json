@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-07T13:08:02.292Z",
+  "updatedAt": "2026-10-07T13:08:26.183Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,6 +323,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.java",
           "sha": "0accd478912599b4524b0c99f5faa83742f4ccd4",
           "lastSyncedAt": "2026-10-07T13:07:44.331Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.java",
+          "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java",
+          "sha": "0965fa1c8069f6a4e068a747547b0c9d7d358c91",
+          "lastSyncedAt": "2026-10-07T13:08:26.183Z"
         }
       ]
     },
