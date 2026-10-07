@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-07T13:09:16.185Z",
+  "updatedAt": "2026-10-07T13:10:10.314Z",
   "problems": [
     {
       "frontendId": "69",
@@ -123,6 +123,26 @@
           "path": "0540-single-element-in-a-sorted-array/0540-single-element-in-a-sorted-array.java",
           "sha": "da4b153134c7af98d70c0b8950bdf34004229c2f",
           "lastSyncedAt": "2026-10-07T13:05:57.072Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "0704-binary-search/0704-binary-search.java",
+          "sha": "96d9cc95b6bdfbcf549c088c162ababcc065c633",
+          "lastSyncedAt": "2026-10-07T13:10:10.314Z"
         }
       ]
     },
