@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:04:53.587Z",
+  "updatedAt": "2026-10-09T13:04:56.799Z",
   "problems": [
     {
       "frontendId": "50",
@@ -163,7 +163,7 @@
           "filename": "1025-divisor-game.java",
           "path": "1025-divisor-game/1025-divisor-game.java",
           "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
-          "lastSyncedAt": "2026-10-07T12:59:05.526Z"
+          "lastSyncedAt": "2026-10-09T13:04:56.799Z"
         }
       ]
     },
