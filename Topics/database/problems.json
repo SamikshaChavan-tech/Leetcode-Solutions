@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T16:37:23.511Z",
+  "updatedAt": "2026-10-09T16:37:29.240Z",
   "problems": [
     {
       "frontendId": "175",
@@ -744,6 +744,26 @@
           "path": "1965-employees-with-missing-information/1965-employees-with-missing-information.sql",
           "sha": "54433632b5f93b1affa92cd130a08e0a396ece47",
           "lastSyncedAt": "2026-10-09T16:36:08.841Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "problemName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "folderPath": "2356-number-of-unique-subjects-taught-by-each-teacher/",
+      "readmePath": "2356-number-of-unique-subjects-taught-by-each-teacher/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "path": "2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "sha": "9e04ebfa85e2e271ef449d4a644616be913fb86c",
+          "lastSyncedAt": "2026-10-09T16:37:29.240Z"
         }
       ]
     },
