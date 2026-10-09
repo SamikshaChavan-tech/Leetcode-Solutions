@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-09T13:08:15.561Z",
+  "updatedAt": "2026-10-09T13:08:34.387Z",
   "problems": [
     {
       "frontendId": "35",
@@ -43,7 +43,7 @@
           "filename": "0069-sqrtx.java",
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "f7d44014e49bb0146e3b3cc11e9d3498df905d0a",
-          "lastSyncedAt": "2026-10-07T13:03:26.254Z"
+          "lastSyncedAt": "2026-10-09T13:08:34.387Z"
         }
       ]
     },
