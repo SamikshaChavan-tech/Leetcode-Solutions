@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-09T16:35:39.559Z",
+  "updatedAt": "2026-10-09T16:37:58.745Z",
   "problems": [
     {
       "frontendId": "26",
@@ -104,6 +104,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "5108fce045a89902815cfc8d561fc6bcd2d3b6d1",
           "lastSyncedAt": "2026-10-09T16:31:18.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "0344-reverse-string/0344-reverse-string.java",
+          "sha": "e948ee9709811f1b8e3dc991c7cc71c7e449e2aa",
+          "lastSyncedAt": "2026-10-09T16:37:58.745Z"
         }
       ]
     },
