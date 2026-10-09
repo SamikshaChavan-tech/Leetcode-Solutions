@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-09T16:27:31.774Z",
+  "updatedAt": "2026-10-09T16:28:06.125Z",
   "problems": [
     {
       "frontendId": "136",
@@ -123,7 +123,7 @@
           "filename": "0371-sum-of-two-integers.java",
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
           "sha": "2ea222ad8ba30196de301824b8a5602a5307b317",
-          "lastSyncedAt": "2026-10-09T13:08:05.859Z"
+          "lastSyncedAt": "2026-10-09T16:28:06.125Z"
         }
       ]
     },
