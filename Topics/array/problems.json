@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:30:46.914Z",
+  "updatedAt": "2026-10-09T16:31:07.473Z",
   "problems": [
     {
       "frontendId": "1",
@@ -963,7 +963,7 @@
           "filename": "2057-smallest-index-with-equal-value.java",
           "path": "2057-smallest-index-with-equal-value/2057-smallest-index-with-equal-value.java",
           "sha": "914500519a5695fc40ca3ca19902b74e7fa58012",
-          "lastSyncedAt": "2026-10-07T13:05:53.495Z"
+          "lastSyncedAt": "2026-10-09T16:31:07.473Z"
         }
       ]
     },
