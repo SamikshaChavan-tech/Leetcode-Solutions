@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-10-07T13:00:20.023Z",
+  "updatedAt": "2026-10-09T13:06:01.336Z",
   "problems": [
     {
       "frontendId": "3745",
@@ -22,7 +23,7 @@
           "filename": "3745-maximize-expression-of-three-elements.java",
           "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.java",
           "sha": "2670ab369c8714084626c288170f33f0267a79c4",
-          "lastSyncedAt": "2026-10-07T13:00:20.023Z"
+          "lastSyncedAt": "2026-10-09T13:06:01.336Z"
         }
       ]
     }
