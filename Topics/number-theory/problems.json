@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-09T16:28:01.520Z",
+  "updatedAt": "2026-10-09T16:32:52.366Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -63,7 +63,7 @@
           "filename": "2413-smallest-even-multiple.java",
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.java",
           "sha": "c850645408324f6ce927279282a080ac928cbaf0",
-          "lastSyncedAt": "2026-10-07T13:08:44.115Z"
+          "lastSyncedAt": "2026-10-09T16:32:52.366Z"
         }
       ]
     },
