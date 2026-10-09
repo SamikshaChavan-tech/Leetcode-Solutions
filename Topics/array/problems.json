@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:30:14.424Z",
+  "updatedAt": "2026-10-09T16:30:20.771Z",
   "problems": [
     {
       "frontendId": "1",
@@ -703,7 +703,7 @@
           "filename": "1394-find-lucky-integer-in-an-array.java",
           "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.java",
           "sha": "9cf98629f41093fc8bda67057a321175ee7b5486",
-          "lastSyncedAt": "2026-10-07T13:05:08.294Z"
+          "lastSyncedAt": "2026-10-09T16:30:20.771Z"
         }
       ]
     },
