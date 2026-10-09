@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bucket-sort",
-    "name": "Bucket Sort"
+    "name": "Bucket Sort",
+    "tagId": "61060"
   },
-  "updatedAt": "2026-10-07T13:07:00.905Z",
+  "updatedAt": "2026-10-09T16:31:51.427Z",
   "problems": [
     {
       "frontendId": "164",
@@ -22,7 +23,7 @@
           "filename": "0164-maximum-gap.java",
           "path": "0164-maximum-gap/0164-maximum-gap.java",
           "sha": "b24fd908555c21240cc4ecd45af92395ed833b61",
-          "lastSyncedAt": "2026-10-07T13:07:00.905Z"
+          "lastSyncedAt": "2026-10-09T16:31:51.427Z"
         }
       ]
     }
