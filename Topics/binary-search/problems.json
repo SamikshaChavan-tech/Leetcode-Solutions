@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-09T16:25:17.875Z",
+  "updatedAt": "2026-10-09T16:26:56.110Z",
   "problems": [
     {
       "frontendId": "35",
@@ -223,7 +223,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.java",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.java",
           "sha": "e9002b8ded447b1864753b24f2c28fd1cb2128e3",
-          "lastSyncedAt": "2026-10-09T13:06:58.884Z"
+          "lastSyncedAt": "2026-10-09T16:26:56.110Z"
         }
       ]
     },
