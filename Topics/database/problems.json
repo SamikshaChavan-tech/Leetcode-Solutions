@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "database",
-    "name": "Database"
+    "name": "Database",
+    "tagId": "61043"
   },
-  "updatedAt": "2026-10-07T13:16:44.354Z",
+  "updatedAt": "2026-10-09T13:08:59.345Z",
   "problems": [
     {
       "frontendId": "175",
@@ -202,7 +203,7 @@
           "filename": "0596-classes-with-at-least-5-students.sql",
           "path": "0596-classes-with-at-least-5-students/0596-classes-with-at-least-5-students.sql",
           "sha": "c83dbe14b4537955559cfdef537f87fbd5635cb2",
-          "lastSyncedAt": "2026-10-07T13:03:52.806Z"
+          "lastSyncedAt": "2026-10-09T13:08:59.345Z"
         }
       ]
     },
