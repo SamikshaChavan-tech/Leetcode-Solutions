@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T16:28:06.125Z",
+  "updatedAt": "2026-10-09T16:28:21.481Z",
   "problems": [
     {
       "frontendId": "50",
@@ -523,7 +523,7 @@
           "filename": "3516-find-closest-person.java",
           "path": "3516-find-closest-person/3516-find-closest-person.java",
           "sha": "f19350fd25fd194080a5ad691e9533a2700e681b",
-          "lastSyncedAt": "2026-10-09T13:08:19.895Z"
+          "lastSyncedAt": "2026-10-09T16:28:21.481Z"
         }
       ]
     },
