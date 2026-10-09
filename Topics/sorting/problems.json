@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-09T16:32:02.464Z",
+  "updatedAt": "2026-10-09T16:32:23.932Z",
   "problems": [
     {
       "frontendId": "75",
@@ -423,7 +423,7 @@
           "filename": "2733-neither-minimum-nor-maximum.java",
           "path": "2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.java",
           "sha": "b8afd6cbdf90eae89b5c5ca654476e9f64a5e85d",
-          "lastSyncedAt": "2026-10-07T13:07:53.678Z"
+          "lastSyncedAt": "2026-10-09T16:32:23.932Z"
         }
       ]
     },
