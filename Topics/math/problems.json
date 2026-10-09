@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T16:38:06.515Z",
+  "updatedAt": "2026-10-09T16:38:12.261Z",
   "problems": [
     {
       "frontendId": "9",
@@ -64,6 +64,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "f7d44014e49bb0146e3b3cc11e9d3498df905d0a",
           "lastSyncedAt": "2026-10-09T16:28:36.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "0231-power-of-two/0231-power-of-two.java",
+          "sha": "99bc35638e248d1e69ef2d061ac934889b33cb92",
+          "lastSyncedAt": "2026-10-09T16:38:12.261Z"
         }
       ]
     },
