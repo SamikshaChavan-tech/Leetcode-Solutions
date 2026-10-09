@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:33:03.188Z",
+  "updatedAt": "2026-10-09T16:33:10.440Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,7 +643,7 @@
           "filename": "1346-check-if-n-and-its-double-exist.java",
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.java",
           "sha": "e14be5196dc6ddc18027035bf783cb229449c86b",
-          "lastSyncedAt": "2026-10-07T13:09:16.185Z"
+          "lastSyncedAt": "2026-10-09T16:33:10.440Z"
         }
       ]
     },
