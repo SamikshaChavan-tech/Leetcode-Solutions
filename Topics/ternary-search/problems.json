@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "ternary-search",
-    "name": "Ternary Search"
+    "name": "Ternary Search",
+    "tagId": "79567"
   },
-  "updatedAt": "2026-10-07T13:01:27.517Z",
+  "updatedAt": "2026-10-09T13:06:58.884Z",
   "problems": [
     {
       "frontendId": "852",
@@ -22,7 +23,7 @@
           "filename": "0852-peak-index-in-a-mountain-array.java",
           "path": "0852-peak-index-in-a-mountain-array/0852-peak-index-in-a-mountain-array.java",
           "sha": "e9002b8ded447b1864753b24f2c28fd1cb2128e3",
-          "lastSyncedAt": "2026-10-07T13:01:27.517Z"
+          "lastSyncedAt": "2026-10-09T13:06:58.884Z"
         }
       ]
     }
