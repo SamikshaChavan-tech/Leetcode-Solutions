@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-10-07T13:13:22.331Z",
+  "updatedAt": "2026-10-09T13:04:33.895Z",
   "problems": [
     {
       "frontendId": "26",
@@ -222,7 +223,7 @@
           "filename": "3194-minimum-average-of-smallest-and-largest-elements.java",
           "path": "3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.java",
           "sha": "524de6f9a163ccd86da1ff2224d8953015db3961",
-          "lastSyncedAt": "2026-10-07T12:58:39.285Z"
+          "lastSyncedAt": "2026-10-09T13:04:33.895Z"
         }
       ]
     }
