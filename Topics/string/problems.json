@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T16:34:16.820Z",
+  "updatedAt": "2026-10-09T16:34:36.660Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,7 +83,7 @@
           "filename": "0709-to-lower-case.java",
           "path": "0709-to-lower-case/0709-to-lower-case.java",
           "sha": "25aef09644a262ba0844c2af908c38b2b9cb477e",
-          "lastSyncedAt": "2026-10-07T13:11:27.793Z"
+          "lastSyncedAt": "2026-10-09T16:34:36.660Z"
         }
       ]
     },
