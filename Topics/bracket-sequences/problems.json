@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "bracket-sequences",
-    "name": "Bracket Sequences"
+    "name": "Bracket Sequences",
+    "tagId": "122055"
   },
-  "updatedAt": "2026-10-07T12:58:22.792Z",
+  "updatedAt": "2026-10-09T13:04:19.593Z",
   "problems": [
     {
       "frontendId": "20",
@@ -22,7 +23,7 @@
           "filename": "0020-valid-parentheses.java",
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "f98c881d27ab5d0d717200789de6ff78dbc811c1",
-          "lastSyncedAt": "2026-10-07T12:58:22.792Z"
+          "lastSyncedAt": "2026-10-09T13:04:19.593Z"
         }
       ]
     }
