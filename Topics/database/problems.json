@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T16:37:41.951Z",
+  "updatedAt": "2026-10-09T16:37:47.790Z",
   "problems": [
     {
       "frontendId": "175",
@@ -244,6 +244,26 @@
           "path": "0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql",
           "sha": "482fe8187111b1a74a3c16fe9ec46bfc40dd869d",
           "lastSyncedAt": "2026-10-09T16:29:05.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "0595-big-countries/",
+      "readmePath": "0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0595-big-countries.sql",
+          "path": "0595-big-countries/0595-big-countries.sql",
+          "sha": "4fa0ab97a678a00be55b1fd8f5b6480ba404ac85",
+          "lastSyncedAt": "2026-10-09T16:37:47.790Z"
         }
       ]
     },
