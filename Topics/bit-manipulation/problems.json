@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-09T13:08:05.859Z",
+  "updatedAt": "2026-10-09T16:27:31.774Z",
   "problems": [
     {
       "frontendId": "136",
@@ -183,7 +183,7 @@
           "filename": "1720-decode-xored-array.java",
           "path": "1720-decode-xored-array/1720-decode-xored-array.java",
           "sha": "ca1c2ee5dd83be201c427759cb7a6f6221a9187f",
-          "lastSyncedAt": "2026-10-09T13:07:33.863Z"
+          "lastSyncedAt": "2026-10-09T16:27:31.774Z"
         }
       ]
     },
