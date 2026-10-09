@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T16:36:01.066Z",
+  "updatedAt": "2026-10-09T16:36:03.651Z",
   "problems": [
     {
       "frontendId": "175",
@@ -643,7 +643,7 @@
           "filename": "1789-primary-department-for-each-employee.sql",
           "path": "1789-primary-department-for-each-employee/1789-primary-department-for-each-employee.sql",
           "sha": "c0a594892d9a157d892816bbd2bfd068cbab0898",
-          "lastSyncedAt": "2026-10-07T13:14:05.418Z"
+          "lastSyncedAt": "2026-10-09T16:36:03.651Z"
         }
       ]
     },
