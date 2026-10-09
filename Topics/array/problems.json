@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:28:43.601Z",
+  "updatedAt": "2026-10-09T16:28:48.717Z",
   "problems": [
     {
       "frontendId": "1",
@@ -883,7 +883,7 @@
           "filename": "1822-sign-of-the-product-of-an-array.java",
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.java",
           "sha": "c60885684c9052ab28c1f41ade5badc933423acb",
-          "lastSyncedAt": "2026-10-09T13:08:44.546Z"
+          "lastSyncedAt": "2026-10-09T16:28:48.717Z"
         }
       ]
     },
