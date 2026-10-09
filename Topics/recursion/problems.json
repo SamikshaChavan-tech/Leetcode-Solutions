@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-09T16:35:43.756Z",
+  "updatedAt": "2026-10-09T16:38:12.261Z",
   "problems": [
     {
       "frontendId": "50",
@@ -24,6 +24,26 @@
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "c202fddf722a96526fd50d8a74c1d1f774703bff",
           "lastSyncedAt": "2026-10-09T16:31:37.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "0231-power-of-two/0231-power-of-two.java",
+          "sha": "99bc35638e248d1e69ef2d061ac934889b33cb92",
+          "lastSyncedAt": "2026-10-09T16:38:12.261Z"
         }
       ]
     },
