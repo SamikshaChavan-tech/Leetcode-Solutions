@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:30:20.771Z",
+  "updatedAt": "2026-10-09T16:30:28.181Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "0706-design-hashmap.java",
           "path": "0706-design-hashmap/0706-design-hashmap.java",
           "sha": "879ec18d2ba82c02176ec8a567806582642b4799",
-          "lastSyncedAt": "2026-10-07T13:05:13.963Z"
+          "lastSyncedAt": "2026-10-09T16:30:28.181Z"
         }
       ]
     },
