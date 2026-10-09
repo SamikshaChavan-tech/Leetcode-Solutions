@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:06:33.682Z",
+  "updatedAt": "2026-10-09T13:06:55.952Z",
   "problems": [
     {
       "frontendId": "50",
@@ -563,7 +563,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
           "sha": "a3d6442c0edfa698290b630520786811c6d3c878",
-          "lastSyncedAt": "2026-10-07T13:01:24.941Z"
+          "lastSyncedAt": "2026-10-09T13:06:55.952Z"
         }
       ]
     },
