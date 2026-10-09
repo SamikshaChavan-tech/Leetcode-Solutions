@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T16:36:22.786Z",
+  "updatedAt": "2026-10-09T16:36:26.657Z",
   "problems": [
     {
       "frontendId": "175",
@@ -423,7 +423,7 @@
           "filename": "1327-list-the-products-ordered-in-a-period.sql",
           "path": "1327-list-the-products-ordered-in-a-period/1327-list-the-products-ordered-in-a-period.sql",
           "sha": "b51ef343ac179513d1fdb94bc4e9e15eae32ed88",
-          "lastSyncedAt": "2026-10-07T13:14:52.045Z"
+          "lastSyncedAt": "2026-10-09T16:36:26.657Z"
         }
       ]
     },
