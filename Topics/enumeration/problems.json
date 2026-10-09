@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-07T13:01:01.122Z",
+  "updatedAt": "2026-10-09T13:05:11.923Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -82,7 +83,7 @@
           "filename": "2951-find-the-peaks.java",
           "path": "2951-find-the-peaks/2951-find-the-peaks.java",
           "sha": "3f7bcb8829813abccc30a4f050f6486464a6aef5",
-          "lastSyncedAt": "2026-10-07T12:59:21.453Z"
+          "lastSyncedAt": "2026-10-09T13:05:11.923Z"
         }
       ]
     },
