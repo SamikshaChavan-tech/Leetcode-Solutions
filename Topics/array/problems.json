@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:28:53.619Z",
+  "updatedAt": "2026-10-09T16:28:57.943Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "1502-can-make-arithmetic-progression-from-sequence.java",
           "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
           "sha": "b871ad69d10316506829c2c92c473202b1812bd6",
-          "lastSyncedAt": "2026-10-09T13:08:54.058Z"
+          "lastSyncedAt": "2026-10-09T16:28:57.943Z"
         }
       ]
     },
