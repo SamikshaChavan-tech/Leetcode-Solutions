@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T16:28:31.325Z",
+  "updatedAt": "2026-10-09T16:28:34.186Z",
   "problems": [
     {
       "frontendId": "50",
@@ -183,7 +183,7 @@
           "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
           "sha": "30604dbb522bbf7bb85f01d37ced7411314710ed",
-          "lastSyncedAt": "2026-10-09T13:08:32.284Z"
+          "lastSyncedAt": "2026-10-09T16:28:34.186Z"
         }
       ]
     },
