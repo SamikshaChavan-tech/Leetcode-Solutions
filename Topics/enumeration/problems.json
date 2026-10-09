@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-09T13:06:01.336Z",
+  "updatedAt": "2026-10-09T13:06:16.751Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -63,7 +63,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.java",
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
           "sha": "e0840238a9d76644f28590229a3636d2325dd42e",
-          "lastSyncedAt": "2026-10-07T13:00:38.440Z"
+          "lastSyncedAt": "2026-10-09T13:06:16.751Z"
         }
       ]
     },
