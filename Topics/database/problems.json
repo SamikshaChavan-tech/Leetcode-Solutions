@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-09T16:29:08.316Z",
+  "updatedAt": "2026-10-09T16:29:10.636Z",
   "problems": [
     {
       "frontendId": "175",
@@ -263,7 +263,7 @@
           "filename": "0620-not-boring-movies.sql",
           "path": "0620-not-boring-movies/0620-not-boring-movies.sql",
           "sha": "be8aba7258f39274c03c2b16b5a726a46b83b004",
-          "lastSyncedAt": "2026-10-07T13:04:01.668Z"
+          "lastSyncedAt": "2026-10-09T16:29:10.636Z"
         }
       ]
     },
