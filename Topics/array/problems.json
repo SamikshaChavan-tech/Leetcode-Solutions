@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T16:28:48.717Z",
+  "updatedAt": "2026-10-09T16:28:53.619Z",
   "problems": [
     {
       "frontendId": "1",
@@ -763,7 +763,7 @@
           "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
           "path": "1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
           "sha": "28cb0cd8d7372c887b8d5164ab2e22b97dcb0f2f",
-          "lastSyncedAt": "2026-10-09T13:08:48.629Z"
+          "lastSyncedAt": "2026-10-09T16:28:53.619Z"
         }
       ]
     },
