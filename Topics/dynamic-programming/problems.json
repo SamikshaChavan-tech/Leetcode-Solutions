@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-07T13:13:30.385Z",
+  "updatedAt": "2026-10-09T13:04:56.799Z",
   "problems": [
     {
       "frontendId": "53",
@@ -82,7 +83,7 @@
           "filename": "1025-divisor-game.java",
           "path": "1025-divisor-game/1025-divisor-game.java",
           "sha": "012750bd00ecd52aa79bdbc3864bc9b8c41f2680",
-          "lastSyncedAt": "2026-10-07T12:59:05.526Z"
+          "lastSyncedAt": "2026-10-09T13:04:56.799Z"
         }
       ]
     }
