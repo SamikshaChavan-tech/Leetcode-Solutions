@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-09T13:08:01.738Z",
+  "updatedAt": "2026-10-09T13:08:05.859Z",
   "problems": [
     {
       "frontendId": "50",
@@ -83,7 +83,7 @@
           "filename": "0371-sum-of-two-integers.java",
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.java",
           "sha": "2ea222ad8ba30196de301824b8a5602a5307b317",
-          "lastSyncedAt": "2026-10-07T13:02:53.601Z"
+          "lastSyncedAt": "2026-10-09T13:08:05.859Z"
         }
       ]
     },
